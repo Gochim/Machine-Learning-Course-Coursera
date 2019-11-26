@@ -9,4 +9,4 @@ Course can be found in [here](https://www.coursera.org/learn/machine-learning/)
 
 *Python* - solutions using Python/Jupyter notebooks
 
-*Tasks* - tasks for each week
+*assignments* - tasks for each week
